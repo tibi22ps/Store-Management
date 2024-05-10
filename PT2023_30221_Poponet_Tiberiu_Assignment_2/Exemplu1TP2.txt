@@ -1,0 +1,100 @@
+Time0
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time1
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time2
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time3
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time4
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time5
+Waiting clients:(1,21,3)(2,6,2)(3,11,3)(4,6,2)
+Casa1: 
+Casa2: 
+Time6
+Waiting clients:(1,21,3)(3,11,3)
+Casa1: (2,6,2)
+Casa2: (4,6,2)
+Time7
+Waiting clients:(1,21,3)(3,11,3)
+Casa1: (2,6,1)
+Casa2: (4,6,1)
+Time8
+Waiting clients:(1,21,3)(3,11,3)
+Casa1: 
+Casa2: 
+Time9
+Waiting clients:(1,21,3)(3,11,3)
+Casa1: 
+Casa2: 
+Time10
+Waiting clients:(1,21,3)(3,11,3)
+Casa1: 
+Casa2: 
+Time11
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: (3,11,3)
+Time12
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: (3,11,2)
+Time13
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: (3,11,1)
+Time14
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time15
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time16
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time17
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time18
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time19
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time20
+Waiting clients:(1,21,3)
+Casa1: 
+Casa2: 
+Time21
+Waiting clients:
+Casa1: (1,21,3)
+Casa2: 
+Time22
+Waiting clients:
+Casa1: (1,21,2)
+Casa2: 
+Time23
+Waiting clients:
+Casa1: (1,21,1)
+Casa2: 
+Time24
+Waiting clients:
+Casa1: 
+Casa2: 
